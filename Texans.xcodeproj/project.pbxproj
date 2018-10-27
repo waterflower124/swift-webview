@@ -14,6 +14,7 @@
 		53DE11312106BA6000AF3772 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 53DE112F2106BA6000AF3772 /* LaunchScreen.storyboard */; };
 		53DE113C2106BA6100AF3772 /* TexansTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DE113B2106BA6100AF3772 /* TexansTests.swift */; };
 		53DE11472106BA6100AF3772 /* TexansUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DE11462106BA6100AF3772 /* TexansUITests.swift */; };
+		53DE11552106C52A00AF3772 /* logo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 53DE11542106C52A00AF3772 /* logo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		53DE11422106BA6100AF3772 /* TexansUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TexansUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		53DE11462106BA6100AF3772 /* TexansUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TexansUITests.swift; sourceTree = "<group>"; };
 		53DE11482106BA6100AF3772 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		53DE11542106C52A00AF3772 /* logo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = logo.jpg; path = ../../logo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				53DE11282106BA5B00AF3772 /* ViewController.swift */,
 				53DE112A2106BA5B00AF3772 /* Main.storyboard */,
 				53DE112D2106BA6000AF3772 /* Assets.xcassets */,
+				53DE11542106C52A00AF3772 /* logo.jpg */,
 				53DE112F2106BA6000AF3772 /* LaunchScreen.storyboard */,
 				53DE11322106BA6000AF3772 /* Info.plist */,
 			);
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53DE11552106C52A00AF3772 /* logo.jpg in Resources */,
 				53DE11312106BA6000AF3772 /* LaunchScreen.storyboard in Resources */,
 				53DE112E2106BA6000AF3772 /* Assets.xcassets in Resources */,
 				53DE112C2106BA5B00AF3772 /* Main.storyboard in Resources */,
